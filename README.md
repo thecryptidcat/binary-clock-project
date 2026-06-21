@@ -2,6 +2,10 @@
 
 As of creating this repo, I've already made a functional version that's relatively optimised. Now it's working with the initial features I wanted, I'll be updating it here as I improve and add other things to it.
 
+### Required Python packages:
+
+- customtkinter
+
 ---
 
 ### Initial features:
