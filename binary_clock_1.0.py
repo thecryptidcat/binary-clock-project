@@ -27,7 +27,6 @@ ON_COLOR = "#51AC51"
 OFF_COLOR = "#292929"
 
 time_list = []
-hourslist = []
 binary_time = []
 
 buttons = []
@@ -42,7 +41,6 @@ def on_exit():
 	root.after(500, exit)
 	
 def update_time():
-	#update display
 	current_time = datetime.now().strftime("%H:%M:%S")
 	time_display.configure(text=f"Current time: {current_time}")
 
@@ -54,7 +52,7 @@ def update_time():
 		binary_val = format(int(i), "04b")
 		binary_time.append(binary_val)
 
-	for col in range(len(binary_time)):                                      # iterates through all columns: lentgh of 'binary_time' is total number of columns printed by time_list, which is 6 as its prints HH:MM:SS
+	for col in range(len(binary_time)):                                      # iterates through all columns: length of 'binary_time' is total number of columns printed by time_list, which is 6 as its prints HH:MM:SS
 		display_texts[col].configure(text=time_list[col])                    # changes the column's display text to the time
 		for row in range(len(binary_time[col])):                             # iterates for the length of that column's value (default 4)
 			binary_unit = str(binary_time[col])[row]                         # re/assigns variable to the nth character of that column's binary time with n = row
