@@ -12,10 +12,10 @@ I will eventually create the required packages through GitHub's method of doing 
 
 ### Initial features:
 
-- [x] Accurate representation of the time
-- [x] Start and stop buttons
-- [x] Time split into each column (HH:MM:SS) and each shown vertically to be their binary representation
-- [x] Each '1' changes the display green to create the clock display
+- Accurate representation of the time
+- Start and stop buttons
+- Time split into each column (HH:MM:SS) and each shown vertically to be their binary representation
+- Each '1' changes the display green to create the clock display
 
 ### Added since 1.0:
 
@@ -23,12 +23,12 @@ I will eventually create the required packages through GitHub's method of doing 
 
 ### Future features/amendments:
 
-- [ ] Polishing the UI and making the display a bit easier to read
-- [ ] Adding customisability, including:
-- [ ] - general window customising e.g bg colour, fonts
-- [ ] - the option whether to show the 1 or 0 digits on the buttons
-- [ ] - changing the colour of the on (and might as well off too) modes of each button
-- [ ] General optimising of the code
+- Polishing the UI and making the display a bit easier to read
+- Adding customisability, including:
+- - general window customising e.g bg colour, fonts
+- - the option whether to show the 1 or 0 digits on the buttons
+- - changing the colour of the on (and might as well off too) modes of each button
+- General optimising of the code
 
 ## Known bugs
 
