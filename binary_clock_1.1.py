@@ -92,7 +92,7 @@ root.title("Binary Clock Display")
 root.configure(bg="#222222")
 root.geometry("505x450")
 
-#root.overrideredirect(True)
+root.overrideredirect(True)
 
 label = ctk.CTkLabel(root, text=" ")
 label.grid(row=0, column=5, columnspan=4, padx=10, pady=10)
