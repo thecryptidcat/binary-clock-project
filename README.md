@@ -25,9 +25,9 @@ I will eventually create the required packages through GitHub's method of doing 
 
 - Polishing the UI and making the display a bit easier to read
 - Adding customisability, including:
-- - general window customising e.g bg colour, fonts
-- - the option whether to show the 1 or 0 digits on the buttons
-- - changing the colour of the on (and might as well off too) modes of each button
+  - general window customising e.g bg colour, fonts
+  - the option whether to show the 1 or 0 digits on the buttons
+  - changing the colour of the on (and might as well off too) modes of each button
 - General optimising of the code
 
 ## Known bugs
