@@ -1,4 +1,4 @@
-# Changelog
+# Changelog - ver 1.1
 
 - Now only the required amount of bits (number of buttons) are shown for each column
 - Appeared to fix issue of a second skipping every now and then (except once right when button is pressed as it is syncing to the real time, this is not a bug)
