@@ -17,14 +17,17 @@ I will eventually create the required packages through GitHub's method of doing 
 - [x] Time split into each column (HH:MM:SS) and each shown vertically to be their binary representation
 - [x] Each '1' changes the display green to create the clock display
 
-### Features/amendments to be added:
+### Added since 1.0:
 
-- [x] Making columns only display their required amount of bits
+- Making columns only display their required amount of bits
+
+### Future features/amendments:
+
 - [ ] Polishing the UI and making the display a bit easier to read
 - [ ] Adding customisability, including:
 - [ ] - general window customising e.g bg colour, fonts
-- [ ]  - the option whether to show the 1 or 0 digits on the buttons
-- [ ]  - changing the colour of the on (and might as well off as well) modes of each button
+- [ ] - the option whether to show the 1 or 0 digits on the buttons
+- [ ] - changing the colour of the on (and might as well off too) modes of each button
 - [ ] General optimising of the code
 
 ## Known bugs
