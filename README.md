@@ -4,26 +4,36 @@ As of creating this repo, I've already made a functional version that's relative
 
 ### Required Python packages:
 
+I will eventually create the required packages through GitHub's method of doing so. Currently have no idea how it works, so will get to that, for now just make sure you have these installed when you run the code.
+
 - customtkinter
 
 ---
 
 ### Initial features:
 
-- [x] Accurate representation of the time
-- [x] Start and stop buttons
-- [x] Time split into each column (HH:MM:SS) and each shown vertically to be their binary representation
-- [x] Each '1' changes the display green to create the clock display
+- Accurate representation of the time
+- Start and stop buttons
+- Time split into each column (HH:MM:SS) and each shown vertically to be their binary representation
+- Each '1' changes the display green to create the clock display
 
-### Features/amendments to be added:
+### Added since 1.0:
 
-- [ ] Polishing the UI and making the display a bit easier to read
-- [ ] Adding customisability
-- [ ] General optimising of the code
+- Making columns only display their required amount of bits
+
+### Future features/amendments:
+
+- Polishing the UI and making the display a bit easier to read
+- Adding customisability, including:
+- - general window customising e.g bg colour, fonts
+- - the option whether to show the 1 or 0 digits on the buttons
+- - changing the colour of the on (and might as well off too) modes of each button
+- General optimising of the code
 
 ## Known bugs
 
-- [ ] About 1 in every 20 seconds is skipped on the text timer and so the clock display. It still displays correctly, but updates slightly out of sync to the real time.
+- [x] ~~About 1 in every 20 seconds is skipped on the text timer and so the clock display. It still displays correctly, but updates slightly out of sync to the real time.~~</p>
+Sometimes the program runs fine, sometimes it likes to be slightly buggy and skip a second on the display, on the timer, or both. Fixed the recurring issue but will look into this new one further.
 
 ---
 
