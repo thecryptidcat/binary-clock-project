@@ -7,6 +7,7 @@ As of creating this repo, I've already made a functional version that's relative
 I will eventually create the required packages through GitHub's method of doing so. Currently have no idea how it works, so will get to that, for now just make sure you have these installed when you run the code.
 
 - customtkinter
+   - tkinter
 
 ---
 
