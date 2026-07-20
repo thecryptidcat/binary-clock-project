@@ -21,16 +21,16 @@ I will eventually create the required packages through GitHub's method of doing 
 ### Added since 1.0:
 
 - Making columns only display their required amount of bits
-- Added customising the window, including:
-     - clock colour (icon and font)
-     - showing or hiding value of each icon in the clock
+- Added some customisability:
+  - changing the 'on mode' colour
+  - showing or hiding the binary digits on the buttons
 
 ### Future features/amendments:
 
-- Polishing the UI and making the display a bit easier to read
 - Adding more customisability, including:
-  - window customising e.g background colour
+  - changing background colour and fonts
 - General optimising of the code
+- Adding a region selection to choose where the clock displays the time for
 
 ## Known bugs
 
