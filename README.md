@@ -21,14 +21,15 @@ I will eventually create the required packages through GitHub's method of doing 
 ### Added since 1.0:
 
 - Making columns only display their required amount of bits
+- Added customising the window, including:
+     - clock colour (icon and font)
+     - showing or hiding value of each icon in the clock
 
 ### Future features/amendments:
 
 - Polishing the UI and making the display a bit easier to read
-- Adding customisability, including:
-  - general window customising e.g bg colour, fonts
-  - the option whether to show the 1 or 0 digits on the buttons
-  - changing the colour of the on (and might as well off too) modes of each button
+- Adding more customisability, including:
+  - window customising e.g background colour
 - General optimising of the code
 
 ## Known bugs
